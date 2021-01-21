@@ -31,3 +31,4 @@ ALTER TABLE `database_simda`
 --
 ALTER TABLE `database_simda`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
+  --
